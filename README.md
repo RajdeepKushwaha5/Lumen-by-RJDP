@@ -11,6 +11,14 @@ Why use Lumen?
 - Accessible dark/light theme toggle with persisted preference.
 - Small, dependency-free codebase (vanilla HTML/CSS/JS).
 
+Use cases
+
+- Personal or technical blogs where content readability is the priority — quick to set up and low maintenance.
+- Documentation or project README sites that need a clean, distraction-free presentation for API docs or guides.
+- Simple portfolios or project landing pages showcasing a small number of projects without a heavy static-site generator.
+- Demos and proof-of-concept pages where you want a predictable layout and minimal CSS/JS overhead.
+- Teaching materials and slides hosted on GitHub Pages — easy to clone and reuse in classrooms or workshops.
+
 What's included
 
 - `index.html` — example page and the theme's markup.
@@ -80,3 +88,4 @@ If you'd like, I can also:
 
 - Commit these edits and push them for you (tell me the branch to push to).
 - Add a ready-to-use Open Graph image and update the meta tags in `index.html`.
+
